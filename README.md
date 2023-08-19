@@ -1,2 +1,2 @@
 # services-section-
-Services section by using html and css
+Responsive services section by using html and css
